@@ -35,3 +35,5 @@
    <h1> See You Again </h1>
   
 </form>
+
+<%-- This is a JSP comment. It won't appear in the HTML output. --%>
